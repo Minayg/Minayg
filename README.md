@@ -4,7 +4,7 @@
 
 <h2>📊 GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minayg&layout=compact&theme=transparent&hide_border=true&v=1" alt="Top Languages" />
+  <img src="./languages.svg" alt="Top Languages" />
 </p>
 
 <h2>🔥 Contributions</h2>
